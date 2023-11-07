@@ -1,2 +1,7 @@
 # TODO
-A kind of global TODO
+## A kind of global TODO
+
+1. ### ICU
+    - How to find out which calendars/chronologies are applicable for a given language/locale
+    - How to find out which numbering systems are applicable for a given language
+    - How to format numers in a universal way that works for Latin and Thai, which use sequential codepoints but also Chinese and Japanese, which don't
